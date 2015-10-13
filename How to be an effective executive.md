@@ -7,6 +7,6 @@ Communication is crucial, you have to know how to say what you want, and for thi
 
 ![alt tag] (http://images.forbes.com/media/2009/07/13/0713_business-executive-computer_400x400.jpg)
 
-[http://blogs.wsj.com/digits/2015/10/09/tech-startups-chase-something-other-than-profits/]
+[Click Here](http://blogs.wsj.com/digits/2015/10/09/tech-startups-chase-something-other-than-profits/)
 
 
