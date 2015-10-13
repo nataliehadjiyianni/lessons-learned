@@ -3,7 +3,7 @@ Another important point is that executives have to avoid the “locking ignoranc
 
 How to divide the work and teams can also be an issue. It is important to remember that breaking the projects in small projects with small scope makes life easier, the same can be applied to software developer payment, do it buy week so you can follow the project step by step and make sure you have aligned interest with the programmers. When it comes to prioritizing, key/ riskiest features need to be done/ solved first. Lastly organizing teams should be according to functionality and not job functions, this type of organizational approach can dramatically reduce the number of interactions between individuals' work, reducing time scales, increasing quality, and cutting down on the number of defects. This approach can also lead to a more committed set of developers. Each team knows that they alone are responsible for a particular function, so they feel more ownership of their output.
 To learn more about software development please 
-[click Here](https://en.wikipedia.org/wiki/Software_development_process)
+[click here](https://en.wikipedia.org/wiki/Software_development_process)
 
 
 ![alt tag] (https://mmylife.files.wordpress.com/2014/07/mop.jpg)
