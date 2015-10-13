@@ -8,3 +8,5 @@ Another key trait of a good programmer is an inquisitive nature: they should be 
 For more information on how to hire a programmer, without any specialized knowledge on coding, look at this article:
 
 (http://www.forbes.com/sites/theyec/2013/07/26/how-to-hire-a-programmer-even-if-you-dont-know-code/)
+
+![alt tag] (https://cloud.githubusercontent.com/assets/15057775/10463919/30c66b6c-71b5-11e5-905d-370da9d6283f.png)
