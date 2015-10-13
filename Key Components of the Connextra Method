@@ -1,0 +1,6 @@
+The Connextra method is an important tool to help non-tech savvy individuals (i.e. business school students) speak "programmer".
+The method combines "user stories" with agile software development as a basis for defining functions of a business system or software buildout. 
+The method is broken out into three steps:
+1) Role: As a ________ (i.e. customer, purchaser, etc)
+2) Feature: I want to _________ (i.e. check order status, review purchase, see account status etc)
+3) Benefit: So that _________ (i.e. I know when product will be delivered, I can see how much I spent etc)
