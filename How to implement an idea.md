@@ -13,4 +13,4 @@ Some of the tips, such as hire somebody that other developer respect or test cod
 
 [Nice article on managing developers](http://techcrunch.com/2015/06/06/on-managing-developers/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29)
 
-(http://www.startupdonut.co.uk/sites/default/files/idea-plan-implement_115512124.jpg)
+[!alt](http://www.startupdonut.co.uk/sites/default/files/idea-plan-implement_115512124.jpg)
